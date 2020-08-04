@@ -17,5 +17,4 @@
 ***
 > 강아지 자랑 <br>
 
-![강세이](./venv/1.jpg )
-![막순이](./venv/2.jpg)
+<img src="./venv/1.jpg)" width="40%" height="30%"></img><br> 
