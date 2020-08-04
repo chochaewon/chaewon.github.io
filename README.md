@@ -17,6 +17,7 @@
 ***
 강아지 자랑 
 
-<img src="./venv/1.jpg" width="450px" height="300px"></img><br/>
+<img src="./venv/1.jpg" width="450px" height="400px"></img><br/>
+<img src="./venv/2.jpg" width="450px" height="400px"></img><br/>
 
 
