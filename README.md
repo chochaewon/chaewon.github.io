@@ -16,7 +16,7 @@
     행복
 ***
 > 강아지 자랑
-<img src="1.jpg" width="40%" height="30%" title="px크기조절"
+<img src="C:\pycharmproject\200804test\1.jpg" width="40%" height="30%" title="px크기조절"
 alt "강세이"></img><br>
-<img src="2.jpg" width="40%" height="30%" title="px크기조절"
+<img src="C:\pycharmproject\200804test\2.jpg" width="40%" height="30%" title="px크기조절"
 alt "강세이"></img>
