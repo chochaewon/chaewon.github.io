@@ -16,4 +16,4 @@
     행복
 ***
 강아지 자랑
-<img src="강세이.jpg" width="450px" height="300px" title="px"
+![Alt text](강세이.jpg)
