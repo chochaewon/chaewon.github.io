@@ -18,6 +18,6 @@
 강아지 자랑 
 
 <img src="./venv/1.jpg" width="450px" height="400px"></img><br/>
-![크기조절..](./venv/2.jpg)
+![크기조절..](./img/2.jpg)
 
 
