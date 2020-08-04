@@ -16,5 +16,5 @@
     행복
 ***
 > 강아지 자랑<br>
-<img src="1.jpg" width="40%" height="30%"></img><br>
-<img src="2.jpg" width="40%" height="30%"></img>
+![Alt text](1.jpg)
+![Alt text](2.jpg)
