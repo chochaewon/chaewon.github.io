@@ -15,5 +15,6 @@
 
     행복
 ***
-강아지 자랑
-![Alt text](강세이.jpg)
+> 강아지 자랑
+<img src="강세이.jpg" width="40%" height="30%" title="px크기조절"
+alt "강세이"></img><br>
