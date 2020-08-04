@@ -16,6 +16,6 @@
     행복
 ***
 > 강아지 자랑 <br>
-![111](1.jpg )
-<img src="1.jpg" width="300" height="300">
+![111](1.jpg){: width="100%" height="100%"}
+
 
