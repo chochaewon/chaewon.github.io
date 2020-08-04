@@ -17,4 +17,4 @@
 ***
 > 강아지 자랑<br>
 <img src="1.jpg" width="40%" height="30%"></img><br>
-<img src="C:\pycharmproject\200804test\2.jpg" width="40%" height="30%" ></img>
+<img src="2.jpg" width="40%" height="30%"></img>
